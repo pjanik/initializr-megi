@@ -1,0 +1,2093 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"show",
+				"showCategory"
+			],
+			[
+				"catego",
+				"categoryHeader"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"backgro",
+				"backgroundColor"
+			],
+			[
+				"defaul",
+				"defaultValue"
+			],
+			[
+				"elem",
+				"elementID"
+			],
+			[
+				"amn",
+				"aminoacidsHelper"
+			],
+			[
+				"amino",
+				"aminoacidsHelper"
+			],
+			[
+				"first",
+				"firstElementID"
+			],
+			[
+				"C",
+				"CLASS_NAME"
+			],
+			[
+				"amno",
+				"amino-acid"
+			],
+			[
+				"am",
+				"amino-acids"
+			],
+			[
+				"getBond",
+				"getBondAtom1Color"
+			],
+			[
+				"radialBon",
+				"radialBond1"
+			],
+			[
+				"gradiet",
+				"gradientNameForParticle"
+			],
+			[
+				"setupParti",
+				"setupColorsOfParticles"
+			],
+			[
+				"main",
+				"mainColorOfGradient"
+			],
+			[
+				"gradientNa",
+				"gradientNameForParticle"
+			],
+			[
+				"grad",
+				"gradientNameForParticle"
+			],
+			[
+				"AM",
+				"AMINO_ELEMENT_FIRST_IDX"
+			],
+			[
+				"getNum",
+				"getNumberOfElements"
+			],
+			[
+				"getNu",
+				"getNumberOfElements"
+			],
+			[
+				"eleme",
+				"elementsByID"
+			],
+			[
+				"ele",
+				"elementsByID"
+			],
+			[
+				"_",
+				"_elements"
+			],
+			[
+				"sigmaIn",
+				"sigmaInNm"
+			],
+			[
+				"sigma",
+				"sigmaInAngstrom"
+			],
+			[
+				"fo",
+				"forin	Array Comprehension"
+			],
+			[
+				"f",
+				"forin	Array Comprehension"
+			],
+			[
+				"wh",
+				"which"
+			],
+			[
+				"extern",
+				"externalFy"
+			],
+			[
+				"get_obsta",
+				"get_obstacle_width"
+			],
+			[
+				"get",
+				"get_obstacle_width"
+			],
+			[
+				"get_obta",
+				"get_obstacle_height"
+			],
+			[
+				"forceVet",
+				"forceVectorLength"
+			],
+			[
+				"forceVec",
+				"forceVectorWidth"
+			],
+			[
+				"pres",
+				"pressureProbeFiltered"
+			],
+			[
+				"zero",
+				"zeroPressureValue"
+			],
+			[
+				"obstacleN",
+				"obstacleNProbeValue"
+			],
+			[
+				"obstacle",
+				"obstacleNorthProbe"
+			],
+			[
+				"N_",
+				"N_obstacles"
+			],
+			[
+				"exter",
+				"externalObj"
+			],
+			[
+				"ext",
+				"externalObj"
+			],
+			[
+				"externa",
+				"externalObjects"
+			],
+			[
+				"tickHistory",
+				"TickHistoryCompatible"
+			],
+			[
+				"filteredO",
+				"filteredOutputByName"
+			],
+			[
+				"counter",
+				"stepCounter"
+			],
+			[
+				"max",
+				"defaultMaxTickHistory"
+			],
+			[
+				"runn",
+				"runningAvg"
+			],
+			[
+				"tick",
+				"tickController"
+			],
+			[
+				"Ru",
+				"RunningAverageFilter"
+			],
+			[
+				"R",
+				"RunningAverageFilter"
+			],
+			[
+				"pe",
+				"periodLength"
+			],
+			[
+				"basic",
+				"basicCalculate"
+			],
+			[
+				"scale",
+				"scale_factor"
+			],
+			[
+				"remove",
+				"removeAngularBond"
+			],
+			[
+				"angularBond",
+				"angularBondAtom3Index"
+			],
+			[
+				"getNumberOf",
+				"getNumberOfRadialBonds"
+			],
+			[
+				"bonds",
+				"bondsToRemove"
+			],
+			[
+				"ang",
+				"angularBondAtom2Index"
+			],
+			[
+				"angularBondAto",
+				"angularBondAtom1Index"
+			],
+			[
+				"radia",
+				"radialBondAtom2Index"
+			],
+			[
+				"radialBond",
+				"radialBondAtom1Index"
+			],
+			[
+				"neih",
+				"neighborList"
+			],
+			[
+				"Image",
+				"imageMapping"
+			],
+			[
+				"create",
+				"createObstaclesArray"
+			],
+			[
+				"ge",
+				"getObstacleProperties"
+			],
+			[
+				"Prope",
+				"PropertiesValidator"
+			],
+			[
+				"mainProp",
+				"mainProperties"
+			],
+			[
+				"ignore",
+				"ignoreImmutable"
+			],
+			[
+				"immutable",
+				"immutableProp"
+			],
+			[
+				"new",
+				"newModel"
+			],
+			[
+				"view",
+				"viewOptions"
+			],
+			[
+				"getRadi",
+				"getRadialBondsResults"
+			],
+			[
+				"model",
+				"modelViewProperties"
+			],
+			[
+				"set_",
+				"set_properties"
+			],
+			[
+				"validat",
+				"validateCompleteness"
+			],
+			[
+				"val",
+				"validateCompleteness"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"intract",
+				"interactive-container"
+			],
+			[
+				"element",
+				"elements"
+			],
+			[
+				"add",
+				"additionalSelector"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"properties",
+				"propertiesValidator"
+			],
+			[
+				"prop",
+				"propMetaData"
+			],
+			[
+				"type",
+				"typeMetaData"
+			],
+			[
+				"defa",
+				"defaultValue"
+			],
+			[
+				"total",
+				"total_time"
+			],
+			[
+				"re",
+				"require"
+			],
+			[
+				"opto",
+				"optionsName"
+			],
+			[
+				"he",
+				"heightScale"
+			],
+			[
+				"View",
+				"VIEW"
+			],
+			[
+				"axis",
+				"axisContainer"
+			],
+			[
+				"ax",
+				"axisContainer"
+			],
+			[
+				"list",
+				"listOfAtoms"
+			],
+			[
+				"bar",
+				"barGraphView"
+			],
+			[
+				"bag",
+				"barGraphControllers"
+			],
+			[
+				"updateParti",
+				"updateParticlesSpeed"
+			],
+			[
+				"Bar",
+				"BarGraphView"
+			],
+			[
+				"BarGra",
+				"BarGraphModel"
+			],
+			[
+				"cha",
+				"changedAttrsCount"
+			],
+			[
+				"Cha",
+				"changedAttributes"
+			],
+			[
+				"width",
+				"width100"
+			],
+			[
+				"script",
+				"scriptingAPI"
+			],
+			[
+				"neigh",
+				"neighListMaxDisplacement"
+			],
+			[
+				"maxD",
+				"maxDisplacement"
+			],
+			[
+				"neg",
+				"neighborList"
+			],
+			[
+				"computeM",
+				"computeMinCutoffDiff"
+			],
+			[
+				"update",
+				"updateNeighborList"
+			],
+			[
+				"minCu",
+				"computeMinCutoffDiff"
+			],
+			[
+				"N_le",
+				"N_elements"
+			],
+			[
+				"cutoff",
+				"cutoffNeighborListSquared"
+			],
+			[
+				"neig",
+				"neighborList"
+			],
+			[
+				"short",
+				"shortRangeForcesNeighborList"
+			],
+			[
+				"charged",
+				"chargedAtomsList"
+			],
+			[
+				"cell2",
+				"cell2Len"
+			],
+			[
+				"cell",
+				"cellNeighbors"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"x_left",
+				"x_left_prev"
+			],
+			[
+				"cont",
+				"controller"
+			],
+			[
+				"grap",
+				"grapherView"
+			],
+			[
+				"pressure",
+				"pressureGraphController"
+			],
+			[
+				"pressur",
+				"pressureBuffers"
+			],
+			[
+				"BUF",
+				"PRESSURE_BUFFERS_LEN"
+			],
+			[
+				"obsta",
+				"obstacleIdx"
+			],
+			[
+				"probe",
+				"probeHistory"
+			],
+			[
+				"obstacleW",
+				"obstacleWProbeValue"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/main.js",
+			"settings":
+			{
+				"buffer_size": 9287,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 4799,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 180.0,
+		"selected_items":
+		[
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git check",
+				"Git: Checkout Current File"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git unsta",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"git dif",
+				"Git: Diff Current File"
+			],
+			[
+				"git ad",
+				"Git: Add Current File"
+			],
+			[
+				"git chec",
+				"Git: Checkout Current File"
+			],
+			[
+				"git che",
+				"Git: Checkout Current File"
+			],
+			[
+				"git uns",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"it di",
+				"Git: Diff Current File"
+			],
+			[
+				"git di",
+				"Git: Diff Current File"
+			],
+			[
+				"it com",
+				"Git: Commit"
+			],
+			[
+				"git df",
+				"Git: Diff Current File"
+			],
+			[
+				"git ch",
+				"Git: Checkout Current File"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"git add ",
+				"Git: Add Current File"
+			],
+			[
+				"git ame",
+				"Git: Amend Commit"
+			],
+			[
+				"git com	",
+				"Git: Commit"
+			],
+			[
+				"git am",
+				"Git: Amend Commit"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git unsage",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint Current File"
+			],
+			[
+				"git diff cu",
+				"Git: Diff Current File"
+			],
+			[
+				"git rese",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"git d iff",
+				"Git: Diff All"
+			],
+			[
+				"git ad ",
+				"Git: Add Current File"
+			],
+			[
+				"git diff cure",
+				"Git: Diff Current File"
+			],
+			[
+				"git diff ",
+				"Git: Diff Current File"
+			],
+			[
+				"git add c",
+				"Git: Add Current File"
+			],
+			[
+				"git diff cur",
+				"Git: Diff Current File"
+			],
+			[
+				"git  check",
+				"Git: Checkout Current File"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"git diff	",
+				"Git: Diff Current File"
+			],
+			[
+				"git reset",
+				"Git: Reset (unstage) Current File"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"gitadd",
+				"Git: Add Current File"
+			],
+			[
+				"linter",
+				"SublimeLinter: Reset"
+			],
+			[
+				"sub",
+				"SublimeLinter: Lint Current File"
+			],
+			[
+				"sublim",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"set c",
+				"Set Syntax: C"
+			],
+			[
+				"JSON",
+				"Set Syntax: JSON"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/piotr/Projects/portfolio-megi/js/main.js",
+		"/home/piotr/Projects/portfolio-megi/index.html",
+		"/home/piotr/Projects/initializr-megi/js/main.js",
+		"/home/piotr/Concord/lab/test/vows/mml-conversions/input-mml/two-charged-atoms-with-shading-image.mml",
+		"/home/piotr/Concord/lab/test/vows/mml-conversions/input-mml/one-textbox.mml",
+		"/home/piotr/Concord/lab/test/vows/mml-conversions/expected-json/one-textbox.json",
+		"/home/piotr/Concord/lab/OUTX",
+		"/home/piotr/Concord/lab/test/vows/mml-conversions/expected-json/show-vdw-lines.json",
+		"/home/piotr/Concord/lab/src/examples/interactives/interactives/sam/phase-change/2-two-types-of-gases.json",
+		"/home/piotr/Concord/lab/imports/legacy-mw-content/other-activities/how-electrons-move/original/page2$0.mml",
+		"/home/piotr/Concord/lab/src/lab/md2d/views/molecule-container.js",
+		"/home/piotr/Concord/lab/src/lab/md2d/models/metadata.js",
+		"/home/piotr/Concord/lab/src/helpers/md2d/mml-parser.coffee",
+		"/home/piotr/Concord/lab/imports/legacy-mw-content/tutorial/pressureprobe$0.mml",
+		"/home/piotr/Concord/lab/Makefile",
+		"/home/piotr/Concord/lab/imports/legacy-mw-content/conversion-and-physics-examples/100-atoms$0.mml",
+		"/home/piotr/Concord/lab/test/vows/mml-conversions/expected-json/angular-bonds.json",
+		"/home/piotr/Concord/lab/test/vows/mml-conversions/expected-json/draggable-atom.json",
+		"/home/piotr/Concord/lab/test/vows/mml-conversions/expected-json/gravitational-field-100.json",
+		"/home/piotr/Concord/lab/test/vows/mml-conversions/expected-json/gravitational-field-200-default.json",
+		"/home/piotr/Concord/lab/test/vows/mml-conversions/expected-json/gravitational-field-400.json",
+		"/home/piotr/Concord/lab/test/vows/mml-conversions/expected-json/gravitational-field-off.json",
+		"/home/piotr/Concord/lab/test/vows/mml-conversions/expected-json/heatbath.json",
+		"/home/piotr/Concord/lab/test/vows/mml-conversions/expected-json/image-layers.json",
+		"/home/piotr/Concord/lab/test/vows/mml-conversions/expected-json/immovable-atom.json",
+		"/home/piotr/Concord/lab/test/vows/mml-conversions/expected-json/invisible-obstacle.json",
+		"/home/piotr/Concord/lab/test/vows/mml-conversions/expected-json/mark-atoms.json",
+		"/home/piotr/Concord/lab/test/vows/mml-conversions/expected-json/no-atoms.json",
+		"/home/piotr/Concord/lab/test/vows/mml-conversions/expected-json/obstacle-color.json",
+		"/home/piotr/Concord/lab/test/vows/mml-conversions/expected-json/obstacle-mass.json",
+		"/home/piotr/Concord/lab/test/vows/mml-conversions/expected-json/obstacle-probes.json",
+		"/home/piotr/Concord/lab/test/vows/mml-conversions/expected-json/point-restraint.json",
+		"/home/piotr/Concord/lab/test/vows/mml-conversions/expected-json/show-charge-symbols.json",
+		"/home/piotr/Concord/lab/test/vows/mml-conversions/expected-json/simple-ke-shading.json",
+		"/home/piotr/Concord/lab/test/vows/mml-conversions/expected-json/time-step-5.0.json",
+		"/home/piotr/Concord/lab/test/vows/mml-conversions/expected-json/two-charged-atoms-with-shading-image.json",
+		"/home/piotr/Concord/lab/test/vows/mml-conversions/expected-json/two-charged-atoms-with-shading.json",
+		"/home/piotr/Concord/lab/test/vows/mml-conversions/expected-json/two-charged-atoms.json",
+		"/home/piotr/Concord/lab/test/vows/mml-conversions/expected-json/two-diatomic-molecules.json",
+		"/home/piotr/Concord/lab/test/vows/mml-conversions/expected-json/two-obstacles.json",
+		"/home/piotr/Concord/lab/test/vows/mml-conversions/expected-json/vectors.json",
+		"/home/piotr/Concord/lab/test/vows/mml-conversions/expected-json/view-refresh-interval-10.json",
+		"/home/piotr/Concord/lab/test/vows/mml-conversions/expected-json/viscosity-friction.json",
+		"/home/piotr/Concord/lab/test/vows/mml-conversions/expected-json/visible-and-invisible.json",
+		"/home/piotr/Concord/lab/imports/legacy-mw-content/conversion-and-physics-examples/amino-acids$0.mml",
+		"/home/piotr/Concord/lab/imports/legacy-mw-content/conversion-and-physics-examples/obstacle-force$0.mml",
+		"/home/piotr/Concord/lab/src/sass/lab/_aminoacid-context-menu.sass",
+		"/home/piotr/Concord/lab/src/vendor/jquery-context-menu/src/jquery.contextMenu.css",
+		"/home/piotr/Concord/lab/src/vendor/jquery-context-menu/src/jquery.contextMenu.js",
+		"/home/piotr/Concord/lab/src/lab/md2d/models/aminoacids-props.js",
+		"/home/piotr/Concord/lab/src/lab/md2d/models/aminoacids-helper.coffee",
+		"/home/piotr/Concord/lab/src/lab/md2d/controllers/interactives-controller.js",
+		"/home/piotr/Concord/lab/src/examples/interactives/interactives.html.haml",
+		"/home/piotr/Concord/lab/src/lab/md2d/models/modeler.js",
+		"/home/piotr/.config/sublime-text-2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/home/piotr/Concord/lab/src/sass/lab/_lab.sass",
+		"/home/piotr/Concord/lab/src/examples/interactives/embeddable.html.haml",
+		"/home/piotr/Concord/lab/src/lab/md2d/models/engine/md2d.js",
+		"/home/piotr/Concord/lab/license.md",
+		"/home/piotr/Concord/lab/src/vendor/jquery-context-menu/src/jquery.ui.position.js",
+		"/home/piotr/Concord/lab/server/public/vendor/jquery/jquery.min.js",
+		"/home/piotr/Concord/lab/src/lab/md2d/models/running-average-filter.coffee",
+		"/home/piotr/Concord/lab/test/env.js",
+		"/home/piotr/Concord/lab/src/lab/md2d/views/aminoacids-menu.coffee",
+		"/home/piotr/Concord/lab/src/lab/md2d/views/aa-type-context-menu.coffee",
+		"/home/piotr/Concord/lab/src/vendor/jquery-ui/dist/jquery-ui.js",
+		"/home/piotr/Concord/lab/src/vendor/jquery-ui/dist/jquery-ui.min.css",
+		"/home/piotr/Concord/lab/src/lab/md2d/models/aminoacids-helper.js",
+		"/home/piotr/Concord/lab/src/examples/interactives/interactives/conversion-tests/amino-acids.json",
+		"/home/piotr/Concord/lab/src/lab/md2d/views/aa-type-context-menu.js",
+		"/home/piotr/Concord/lab/imports/legacy-mw-content/conversion-and-physics-examples/amino-acids.cml",
+		"/home/piotr/Concord/lab/test/helpers/index.js",
+		"/home/piotr/Downloads/initializr/index.html",
+		"/home/piotr/page3$0.mml",
+		"/home/piotr/Downloads/initializr/js/main.js",
+		"/home/piotr/Downloads/initializr/css/main.css",
+		"/home/piotr/Downloads/initializr/css/bootstrap.css",
+		"/home/piotr/Concord/lab/test/mocha/md2d/interactive-filtered-outputs-spec.coffee",
+		"/home/piotr/Concord/lab/test/mocha/md2d/aminoacids.coffee",
+		"/home/piotr/Concord/lab/src/lab/md2d/models/engine/constants/units.js",
+		"/home/piotr/Concord/lab/src/lab/grapher/bar-graph/bar-graph-view.js",
+		"/home/piotr/Concord/lab/src/lab/md2d/views/meta-view-options.js",
+		"/home/piotr/Concord/lab/src/vendor/jquery/Makefile",
+		"/home/piotr/Concord/lab/src/vendor/jquery/grunt.js",
+		"/home/piotr/Concord/lab/config/littlechef/site-cookbooks/apache2/metadata.json",
+		"/home/piotr/Concord/lab/test/vows/md2d/modeler-test.js",
+		"/home/piotr/Concord/lab/test/mocha/md2d/elements.coffee",
+		"/home/piotr/Concord/lab/src/readme.md",
+		"/home/piotr/Concord/lab/src/examples/interactives/interactives/basic-examples/sample-rate-and-refresh-rate.json",
+		"/home/piotr/Concord/lab/src/examples/interactives/interactives/sam/gas-laws/3-volume-pressure-relationship.json",
+		"/home/piotr/Concord/lab/src/modules/arrays/index.js",
+		"/home/piotr/Concord/lab/src/helpers/md2d/aminoacids-props-converter.coffee",
+		"/home/piotr/Desktop/amino$0.mml",
+		"/home/piotr/1.mml",
+		"/home/piotr/Concord/lab/src/lab/md2d/models/engine/proteins/aminoacids.properties",
+		"/home/piotr/Concord/lab/src/helpers/md2d/mw-batch-converter.js",
+		"/home/piotr/Concord/lab/src/lab/md2d/models/engine/proteins/aminoacids.js",
+		"/home/piotr/Concord/lab/src/lab/md2d/models/engine/proteins/aa-props-converter.coffee",
+		"/home/piotr/Concord/lab/test/vows/mml-conversions/input-mml/show-charge-symbols.mml",
+		"/home/piotr/Concord/lab/src/examples/interactives/interactives/conversion-tests/obstacle-force.json",
+		"/home/piotr/Concord/lab/src/lab/md2d/models/engine/proteins/aminoacids.json",
+		"/home/piotr/Concord/lab/config/deploy.rb",
+		"/home/piotr/Concord/lab/config/deploy/lab-dev.rb",
+		"/home/piotr/Concord/lab/config/config.yml",
+		"/home/piotr/Downloads/id_rsa.pub",
+		"/home/piotr/Concord/lab/src/examples/interactives/interactives/sam/intermolecular-attractions/6-hydrogen-bonds-a-special-type-of-attraction.json",
+		"/home/piotr/2.mml",
+		"/home/piotr/Concord/lab/src/examples/interactives/interactives/conversion-tests/pressure-probe.json",
+		"/home/piotr/Concord/lab/src/examples/interactives/interactives/sam/gas-laws/5-temperature-pressure-relationship.json",
+		"/home/piotr/3.mml",
+		"/home/piotr/Concord/lab/test/vows/mml-conversions/conversion-test.js",
+		"/home/piotr/Concord/lab/test/mocha/mml-conversions/conversion-test.coffee",
+		"/home/piotr/Concord/lab/test/mocha/mml-conversions/conversion-test.js",
+		"/home/piotr/Concord/lab/test/mocha/md2d/filtered-output-spec.coffee",
+		"/home/piotr/Concord/lab/src/lab/md2d/controllers/bar-graph-controller.js",
+		"/home/piotr/Concord/lab/src/examples/interactives/interactives/basic-examples/output-properties-and-custom-parameters-demo.json",
+		"/home/piotr/Concord/lab/src/lab/md2d/controllers/graph-controller.js",
+		"/home/piotr/Concord/lab/src/lab/md2d/controllers/pressure-graph-controller.js",
+		"/home/piotr/Concord/lab/test/mocha/md2d/pressure-buffers.coffee",
+		"/home/piotr/Concord/lab/src/lab/md2d/models/engine/pressure-buffers.js",
+		"/home/piotr/Concord/lab/src/examples/interactives/application.js",
+		"/home/piotr/Concord/lab/src/lab/common/benchmark/benchmark.js",
+		"/home/piotr/Concord/lab/test/mocha/md2d/interactive-outputs-spec.coffee",
+		"/home/piotr/Concord/lab/test/fixtures/models/simple-model.json",
+		"/home/piotr/Concord/lab/test/mocha/md2d/output-properties-spec.coffee",
+		"/home/piotr/Concord/lab/src/lab/md2d/models/tick-history.js",
+		"/home/piotr/Concord/lab/test/mocha/md2d/custom-parameters-spec.coffee",
+		"/home/piotr/Concord/lab/src/lab/md2d/controllers/model-controller.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/piotr/Concord/lab/test/vows/mml-conversions/expected-json",
+			"/home/piotr/Concord/lab/src",
+			"/home/piotr/Concord/lab/src/lab",
+			"/home/piotr/Concord/lab/",
+			"/home/piotr/Concord/lab/test/vows/mml-conversions/expected-json",
+			"/home/piotr/Concord/lab",
+			"/home/piotr/Concord/lab/src/lab",
+			"/home/piotr/Concord/lab/test/vows/mml-conversions/expected-json",
+			"/home/piotr/Concord/lab/src/",
+			"/home/piotr/Concord/lab/src/examples/interactives/interactives",
+			"/home/piotr/Concord/lab/src/lab",
+			"/home/piotr/Concord/lab/src",
+			"/home/piotr/Concord/lab/src/examples/interactives/interactives",
+			"/home/piotr/Concord/lab/src/",
+			"/home/piotr/Concord/lab/src/lab",
+			"/home/piotr/Concord/lab/src/lab/md2d",
+			"/home/piotr/Concord/lab",
+			"/home/piotr/Concord/lab/src/examples/interactives",
+			"/home/piotr/Concord/lab/src/lab",
+			"/home/piotr/Concord/lab/test/mml-conversions/expected-json",
+			"/home/piotr/Concord/lab/src/lab",
+			"/home/piotr/Concord/lab/",
+			"/home/piotr/Concord/lab/test/mml-conversions/expected-json",
+			"/home/piotr/Concord/lab/src/examples/interactives/interactives",
+			"/home/piotr/Concord/lab/src/lab",
+			"/home/piotr/Concord/lab/src/lab/energy2d",
+			"/home/piotr/Concord/lab/src/energy2d",
+			"/home/piotr/Concord/lab/src",
+			"/home/piotr/Concord/lab/",
+			"/home/piotr/Concord/lab/src/lab/",
+			"/home/piotr/Concord/lab/src/experiments",
+			"/home/piotr/Concord/lab/src/examples",
+			"/home/piotr/Concord/lab/src/experiments",
+			"/home/piotr/Concord/lab/",
+			"/home/piotr/Concord/lab/src/examples",
+			"/home/piotr/Concord/lab/src/lab",
+			"/home/piotr/Concord/lab/src",
+			"/home/piotr/Concord/lab",
+			"/home/piotr/Concord/lab/src,*.js",
+			"/home/piotr/Concord/lab,*.js",
+			"/home/piotr/Concord/lab",
+			"/home/piotr/Concord/lab, *.js",
+			"/home/piotr/Concord/lab",
+			"/home/piotr/Concord/lab/src/",
+			"/home/piotr/Concord/lab/src/lab/components",
+			"/home/piotr/Concord/lab/src/components",
+			"/home/piotr/Concord/lab/src",
+			"/home/piotr/Concord/lab",
+			"/home/piotr/Concord/lab/src",
+			"/home/piotr/Concord/lab/src/lab",
+			"/home/piotr/Concord/lab/src/lab/",
+			"/home/piotr/Concord/lab/src/lab/grapher",
+			"/home/piotr/Concord/lab/src/grapher",
+			"/home/piotr/Concord/lab/src",
+			"/home/piotr/Concord/lab",
+			"/home/piotr/Concord/lab/src/",
+			"/home/piotr/Concord/lab/test",
+			"/home/piotr/Concord/lab/",
+			"/home/piotr/Concord/lab/test/",
+			"/home/piotr/Concord/lab/test/lab/grapher",
+			"/home/piotr/Concord/lab/src/lab/grapher/core",
+			"/home/piotr/Concord/lab/test/lab"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"titleFromBottom",
+			"text",
+			"main",
+			"animation:",
+			"animate:",
+			"animation:",
+			"inputClick",
+			"prevent",
+			"propagat",
+			"types[",
+			"type[",
+			"type.",
+			"type",
+			"types.",
+			"register",
+			"green-grad",
+			"show.call",
+			"show",
+			"position",
+			"update",
+			"show:",
+			"show",
+			"$win",
+			"$this",
+			"position:",
+			"position",
+			"amino-acid",
+			"position",
+			"determinePosition",
+			"position",
+			"determinePosition",
+			"ui.position",
+			"radio",
+			"item.events",
+			"events",
+			".click",
+			"on(\"click",
+			"on('click",
+			"click",
+			"events",
+			"evetns",
+			"\"radio",
+			"addComma",
+			"radio",
+			"set_properties",
+			"set =",
+			"set",
+			"backgroundColor",
+			"background",
+			"    \"keShading\"",
+			"background",
+			"getProperty",
+			"background",
+			"Find",
+			"find",
+			"chargeShading",
+			"backgroundColor",
+			"getIntProperty",
+			"bgColors",
+			"chargeShading",
+			"background",
+			"$",
+			"getIntPro",
+			"getInt",
+			"backgroundColo",
+			"getIntProperty",
+			"imports",
+			"getNode",
+			"obstacle",
+			"color",
+			"obstacle",
+			"aminoAcidColorScheme",
+			"visible",
+			"aminoAcid",
+			"colorCode",
+			"color",
+			"back",
+			"backgro",
+			"eeee",
+			"setup_drawables",
+			"eeeee",
+			"get_obstacle_color",
+			"obstacle",
+			"#eeeeee",
+			"container()",
+			"container",
+			"fill",
+			"background",
+			"color",
+			"over",
+			"max",
+			"label.en",
+			"minimize",
+			"drag",
+			"css",
+			"\"",
+			"overflow",
+			"hidden",
+			"overflow",
+			"mark",
+			", type: \"radio\"",
+			"show",
+			"\"hydrophilic\"",
+			"\"hydrophobic\"",
+			"MENU_CLASS_NAME",
+			"width",
+			"calculate width",
+			"width",
+			"12",
+			"120",
+			"129",
+			"12",
+			"width",
+			"max",
+			"width",
+			"height",
+			"CLASS_NAME",
+			"width",
+			"server/public/resources",
+			"resources",
+			"play.png",
+			"play",
+			"play.png",
+			"orange-gr",
+			"getParticle",
+			"css",
+			"interactives.css",
+			"interactive.css"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"tittlePadding",
+			"    \"backgroundColor\": \"#eeeeee\",\n    \"keShading\"",
+			"",
+			" ",
+			"\"#{HYDROPHILIC_CLASS}\"",
+			"\"#{HYDROPHOBIC_CLASS}\"",
+			"MENU_CLASS",
+			"MENU_CLASS_NAME",
+			"    \"useThreeLetterCode\": true,\n    \"aminoAcidColorScheme\": \"hydrophobicity\",",
+			"useThreeLetterCode",
+			"editableElements",
+			"    \"showChargeSymbols\": true,",
+			"\"chargeShading\": true,\n    \"showChargeSymbols\": true,\n    \"showChargeSymbols\": true,",
+			"\"chargeShading\": false,\n    \"showChargeSymbols\": true,",
+			"obstacles.southProbeValue",
+			"obstacles.northProbeValue",
+			"obstacles.eastProbeValue",
+			"obstacles.westProbeValue",
+			"@_maxBufferLength",
+			"@_idx",
+			"@_time",
+			"@_value",
+			"zeroPressureValues",
+			"filtered output",
+			"maxBufferLength",
+			"filteredOutputsByName",
+			"timeSum",
+			"valSum",
+			"RunningAverageFilter",
+			"removeAtom(0);",
+			"removeAtom(getNumberOfAtoms() - 1)",
+			"elementsObjects",
+			"newViewConfig",
+			"viewConfig",
+			"initialModelOptions",
+			"initialViewOptions",
+			"rawModelOptions",
+			"rawViewOptions",
+			"convertTtoKE",
+			"getTWindowed",
+			"convertKEtoT",
+			"metadata",
+			"validator",
+			"propMetadata",
+			"metadata",
+			"options",
+			"    \"showAtomTrace\": false",
+			"\"showForceVectors\": false,\n\"showAtomTrace\": false",
+			"$mml.root()",
+			"layoutTextarea",
+			"vdwPairs.atom2",
+			"vdwPairs.atom1",
+			"vdwPairs.count",
+			"strength",
+			"angle",
+			"atom3",
+			"atom2",
+			"atom1",
+			"style",
+			"strength",
+			"createNewAtoms",
+			"createAtoms",
+			"validatedProps",
+			"outFilePath",
+			"inFilePath",
+			"decimalFormat",
+			"arrayTypes.float",
+			"arrayTypes",
+			"arrayTypes.float32",
+			"arrayTypes.int16",
+			"arrayTypes.uint16",
+			"arrayTypes.float32",
+			"arrayTypes.uint8",
+			"paddingBottom",
+			"paddingLeft",
+			"paddingTop",
+			"paddingRight",
+			"rightMargin",
+			"state",
+			"obstaclesData.sProbeValue",
+			"obstaclesData.nProbeValue",
+			"obstaclesData.eProbeValue",
+			"obstaclesData.wProbeValue",
+			"obstaclesData.southProbe",
+			"obstaclesData.eastProbe",
+			"obstaclesData.northProbe",
+			"obstaclesData.westProbe",
+			"options.height",
+			"options.width",
+			"VIEW.padding.",
+			"VIEW.height",
+			"VIEW.width",
+			"bounceParticleOffObstacles",
+			"bounceParticleOffWalls",
+			"updateObstaclesPosition",
+			"updateParticlesPosition",
+			"neighborList.shouldBeUpdated()",
+			"maxDisplacement",
+			"computeNeighborListSkinLength",
+			"cons",
+			"rSq",
+			"charge1",
+			"fOverR",
+			"updateShortRangeForces",
+			"updateLongRangeForces",
+			"updateShortRangeForces",
+			"quadtreeNode",
+			"quadtreeVisit",
+			"bounceAtomOffWalls",
+			"obstacleVY",
+			"obstacleVX",
+			"obstacleY",
+			"obstacleX",
+			"setPressureDataLength",
+			"limitPressureData",
+			"createGrapher",
+			"component",
+			"pressureData",
+			"resetPressureData",
+			"probes",
+			"pressureBuffers",
+			"\"marked\":",
+			"\"draggable\":",
+			"\"visible\":",
+			"\"pinned\":",
+			"\"element\":",
+			"\"friction\":",
+			"\"charge\":"
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/main.js",
+					"settings":
+					{
+						"buffer_size": 9287,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7786,
+								7786
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"boss": false,
+								"browser": true,
+								"curly": false,
+								"debug": false,
+								"devel": false,
+								"eqeqeq": true,
+								"es5": false,
+								"evil": true,
+								"forin": true,
+								"immed": true,
+								"indent": 2,
+								"laxbreak": false,
+								"newcap": true,
+								"noarg": true,
+								"node": true,
+								"noempty": true,
+								"nomen": false,
+								"nonew": false,
+								"onevar": false,
+								"plusplus": false,
+								"predef":
+								[
+								],
+								"regexp": false,
+								"strict": false,
+								"sub": true,
+								"undef": true,
+								"unused": true,
+								"white": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3604.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 4799,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3622,
+								3622
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"boss": false,
+								"browser": true,
+								"curly": false,
+								"debug": false,
+								"devel": false,
+								"eqeqeq": true,
+								"es5": false,
+								"evil": true,
+								"forin": true,
+								"immed": true,
+								"indent": 2,
+								"laxbreak": false,
+								"newcap": true,
+								"noarg": true,
+								"node": true,
+								"noempty": true,
+								"nomen": false,
+								"nonew": false,
+								"onevar": false,
+								"plusplus": false,
+								"predef":
+								[
+								],
+								"regexp": false,
+								"strict": false,
+								"sub": true,
+								"undef": true,
+								"unused": true,
+								"white": false
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": false,
+							"sublimelinter_mark_style": "outline",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 510.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.coffeecompile_output":
+	{
+		"height": 762.0
+	},
+	"output.exec":
+	{
+		"height": 242.0
+	},
+	"output.git":
+	{
+		"height": 133.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"bar-graph-ve",
+				"src/lab/grapher/bar-graph/bar-graph-view.js"
+			],
+			[
+				"modeler.js",
+				"src/lab/md2d/models/modeler.js"
+			],
+			[
+				"molecule-co",
+				"src/lab/md2d/views/molecule-container.js"
+			],
+			[
+				"makef",
+				"Makefile"
+			],
+			[
+				"pressurepro",
+				"imports/legacy-mw-content/tutorial/pressureprobe$0.mml"
+			],
+			[
+				"obstacle",
+				"imports/legacy-mw-content/conversion-and-physics-examples/obstacle-force$0.mml"
+			],
+			[
+				"mml-",
+				"src/helpers/md2d/mml-parser.coffee"
+			],
+			[
+				"metada",
+				"src/lab/md2d/models/metadata.js"
+			],
+			[
+				"molecule-con",
+				"src/lab/md2d/views/molecule-container.js"
+			],
+			[
+				"page2",
+				"imports/legacy-mw-content/other-activities/how-electrons-move/original/page2$0.mml"
+			],
+			[
+				"two-type",
+				"src/examples/interactives/interactives/sam/phase-change/2-two-types-of-gases.json"
+			],
+			[
+				"interactiveshaml",
+				"src/examples/interactives/interactives.html.haml"
+			],
+			[
+				"modler.",
+				"src/lab/md2d/models/modeler.js"
+			],
+			[
+				"interactives-",
+				"src/lab/md2d/controllers/interactives-controller.js"
+			],
+			[
+				"amhelper",
+				"src/lab/md2d/models/aminoacids-helper.coffee"
+			],
+			[
+				"make",
+				"Makefile"
+			],
+			[
+				"aminoacids",
+				"src/lab/md2d/models/aminoacids-props.js"
+			],
+			[
+				"makefile",
+				"Makefile"
+			],
+			[
+				"embedda",
+				"src/examples/interactives/embeddable.html.haml"
+			],
+			[
+				"md2d",
+				"src/lab/md2d/models/engine/md2d.js"
+			],
+			[
+				"aminoa",
+				"src/lab/md2d/models/aminoacids-props.js"
+			],
+			[
+				"amino-ac",
+				"imports/legacy-mw-content/conversion-and-physics-examples/amino-acids.cml"
+			],
+			[
+				"amino-a",
+				"imports/legacy-mw-content/conversion-and-physics-examples/amino-acids.cml"
+			],
+			[
+				"",
+				"imports/legacy-mw-content/conversion-and-physics-examples/amino-acids$0.mml"
+			],
+			[
+				"amino-aci",
+				"src/examples/interactives/interactives/conversion-tests/amino-acids.json"
+			],
+			[
+				"metad",
+				"src/lab/md2d/models/metadata.js"
+			],
+			[
+				"mml-pa",
+				"src/helpers/md2d/mml-parser.coffee"
+			],
+			[
+				"amino-acids",
+				"imports/legacy-mw-content/conversion-and-physics-examples/amino-acids$0.mml"
+			],
+			[
+				"amino",
+				"src/examples/interactives/interactives/conversion-tests/amino-acids.json"
+			],
+			[
+				"metadata",
+				"src/lab/md2d/models/metadata.js"
+			],
+			[
+				"metadatajs",
+				"src/lab/md2d/models/metadata.js"
+			],
+			[
+				"meta",
+				"config/littlechef/site-cookbooks/apache2/metadata.json"
+			],
+			[
+				"interactives-co",
+				"src/lab/md2d/controllers/interactives-controller.js"
+			],
+			[
+				"3-vl",
+				"src/examples/interactives/interactives/sam/gas-laws/3-volume-pressure-relationship.json"
+			],
+			[
+				"sample-re",
+				"src/examples/interactives/interactives/basic-examples/sample-rate-and-refresh-rate.json"
+			],
+			[
+				"mml-p",
+				"src/helpers/md2d/mml-parser.coffee"
+			],
+			[
+				"metadata.js",
+				"src/lab/md2d/models/metadata.js"
+			],
+			[
+				"obstacle-for",
+				"src/examples/interactives/interactives/conversion-tests/obstacle-force.json"
+			],
+			[
+				"obstacle-force",
+				"imports/legacy-mw-content/conversion-and-physics-examples/obstacle-force$0.mml"
+			],
+			[
+				"external-for",
+				"src/examples/interactives/interactives/conversion-tests/obstacle-force.json"
+			],
+			[
+				"modeler.",
+				"src/lab/md2d/models/modeler.js"
+			],
+			[
+				"6-hy",
+				"src/examples/interactives/interactives/sam/intermolecular-attractions/6-hydrogen-bonds-a-special-type-of-attraction.json"
+			],
+			[
+				"container.js",
+				"src/lab/md2d/views/molecule-container.js"
+			],
+			[
+				"pressure-probe",
+				"src/examples/interactives/interactives/conversion-tests/pressure-probe.json"
+			],
+			[
+				"5",
+				"src/examples/interactives/interactives/sam/gas-laws/5-temperature-pressure-relationship.json"
+			],
+			[
+				"3vol",
+				"src/examples/interactives/interactives/sam/gas-laws/3-volume-pressure-relationship.json"
+			],
+			[
+				"interactives-l",
+				"src/lab/md2d/controllers/interactives-controller.js"
+			],
+			[
+				"pressure-pro",
+				"src/examples/interactives/interactives/conversion-tests/pressure-probe.json"
+			],
+			[
+				"interactive-con",
+				"src/lab/md2d/controllers/interactives-controller.js"
+			],
+			[
+				"model-con",
+				"src/lab/md2d/controllers/model-controller.js"
+			],
+			[
+				"index.js",
+				"src/modules/arrays/index.js"
+			],
+			[
+				"interactive-co",
+				"src/lab/md2d/controllers/interactives-controller.js"
+			],
+			[
+				"index.",
+				"src/modules/arrays/index.js"
+			],
+			[
+				"md2d.j",
+				"src/lab/md2d/models/engine/md2d.js"
+			],
+			[
+				"6",
+				"src/examples/interactives/interactives/sam/gas-laws/6-number-volume-relationship.json"
+			],
+			[
+				"modler.js",
+				"src/lab/md2d/models/modeler.js"
+			],
+			[
+				"moleculecon",
+				"src/lab/md2d/views/molecule-container.js"
+			],
+			[
+				"interactives-c",
+				"src/lab/md2d/controllers/interactives-controller.js"
+			],
+			[
+				"number-v",
+				"src/examples/interactives/interactives/sam/gas-laws/6-number-volume-relationship.json"
+			],
+			[
+				"1-in",
+				"src/examples/interactives/interactives/sam/intermolecular-attractions/1-introduction.json"
+			],
+			[
+				"layout",
+				"src/lab/common/layout/layout.js"
+			],
+			[
+				"molecule",
+				"src/lab/md2d/views/molecule-container.js"
+			],
+			[
+				"molecule-",
+				"src/lab/md2d/views/molecule-container.js"
+			],
+			[
+				"remove-atoms",
+				"src/examples/interactives/interactives/basic-examples/remove-atoms.json"
+			],
+			[
+				"valida",
+				"src/lab/common/validator.js"
+			],
+			[
+				"index",
+				"src/modules/arrays/index.js"
+			],
+			[
+				"neighbor-list",
+				"src/lab/md2d/models/engine/neighbor-list.js"
+			],
+			[
+				"mode",
+				"src/lab/md2d/models/modeler.js"
+			],
+			[
+				"md2d.js",
+				"src/lab/md2d/models/engine/md2d.js"
+			],
+			[
+				"model-co",
+				"src/lab/md2d/controllers/model-controller.js"
+			],
+			[
+				"moleco",
+				"src/lab/md2d/views/molecule-container.js"
+			],
+			[
+				"validator",
+				"src/lab/common/validator.js"
+			],
+			[
+				"validat",
+				"test/mocha/common/validator.js"
+			],
+			[
+				"moleculeco",
+				"src/lab/md2d/views/molecule-container.js"
+			],
+			[
+				"array",
+				"src/lab/common/array-types.js"
+			],
+			[
+				"obstacles.c",
+				"test/mocha/md2d/obstacles.coffee"
+			],
+			[
+				"interactives",
+				"src/lab/md2d/controllers/interactives-controller.js"
+			],
+			[
+				"array-",
+				"src/lab/common/array-types.js"
+			],
+			[
+				"tick",
+				"src/lab/md2d/models/tick-history.js"
+			],
+			[
+				"interatives-co",
+				"src/lab/md2d/controllers/interactives-controller.js"
+			],
+			[
+				"add-rem",
+				"src/examples/interactives/interactives/basic-examples/add-remove-obstacles.json"
+			],
+			[
+				"add-atoms",
+				"src/examples/interactives/interactives/basic-examples/add-atoms.json"
+			],
+			[
+				"pressure-bu",
+				"src/lab/md2d/models/engine/pressure-buffers.js"
+			],
+			[
+				"interactives-con",
+				"src/lab/md2d/controllers/interactives-controller.js"
+			],
+			[
+				"mml",
+				"src/helpers/md2d/mml-parser.coffee"
+			],
+			[
+				"modeler-tes",
+				"test/vows/md2d/modeler-test.js"
+			],
+			[
+				"meta-mo",
+				"src/lab/md2d/models/meta-model.js"
+			],
+			[
+				"meta-",
+				"src/lab/md2d/models/meta-model.js"
+			],
+			[
+				"modeler-test.js",
+				"test/vows/md2d/modeler-test.js"
+			],
+			[
+				"proper",
+				"src/lab/common/properties-validator.js"
+			],
+			[
+				"mm-p",
+				"src/helpers/md2d/mml-parser.coffee"
+			],
+			[
+				"modeler-test",
+				"test/vows/md2d/modeler-test.js"
+			],
+			[
+				"properti",
+				"src/lab/common/properties-validator.js"
+			],
+			[
+				"meta-m",
+				"src/lab/md2d/models/meta-model.js"
+			],
+			[
+				"mw-bat",
+				"src/helpers/md2d/mw-batch-converter.js"
+			],
+			[
+				"mml-par",
+				"src/helpers/md2d/mml-parser.coffee"
+			],
+			[
+				"html-la",
+				"src/experiments/html-layout/html-layout.js"
+			],
+			[
+				"htmlla",
+				"src/experiments/html-layout/html-layout.js"
+			],
+			[
+				"html-lay",
+				"src/experiments/html-layout/html-layout.js"
+			],
+			[
+				"pressure-con",
+				"src/lab/md2d/controllers/pressure-graph-controller.js"
+			],
+			[
+				"page-6",
+				"src/examples/interactives/interactives/sam/phase-change-page-6.json"
+			],
+			[
+				"interactive-control",
+				"src/lab/md2d/controllers/interactives-controller.js"
+			],
+			[
+				"molec",
+				"src/lab/md2d/views/molecule-container.js"
+			],
+			[
+				"mm-",
+				"src/helpers/md2d/mml-parser.coffee"
+			],
+			[
+				"two-obs",
+				"test/fixtures/models/two-obstacles.mml"
+			],
+			[
+				"arrays.js",
+				"src/modules/arrays/index.js"
+			],
+			[
+				"meta-mode",
+				"src/lab/md2d/models/meta-model.js"
+			],
+			[
+				"meta-mod",
+				"src/lab/md2d/models/meta-model.js"
+			],
+			[
+				"gas-a",
+				"src/examples/interactives/interactives/sam/gas-laws-page-3.json"
+			],
+			[
+				"modeler",
+				"src/lab/md2d/models/modeler.js"
+			],
+			[
+				"bar-graph-mode",
+				"src/lab/grapher/bar-graph/bar-graph-model.js"
+			],
+			[
+				"interlayout",
+				"src/lab/common/layout/interactive-layout.js"
+			],
+			[
+				"bar-gra",
+				"src/lab/grapher/bar-graph/bar-graph-view.js"
+			],
+			[
+				"lay",
+				"src/lab/common/layout/layout.js"
+			],
+			[
+				"layo",
+				"src/lab/common/layout/layout.js"
+			],
+			[
+				"bargview",
+				"src/lab/grapher/bar-graph/bar-graph-view.js"
+			],
+			[
+				"bargraphmode",
+				"src/lab/grapher/bar-graph/bar-graph-model.js"
+			],
+			[
+				"bar-grap",
+				"src/lab/grapher/bar-graph/bar-graph-view.js"
+			],
+			[
+				"interactive-lay",
+				"src/lab/common/layout/interactive-layout.js"
+			],
+			[
+				"gas-law",
+				"src/examples/interactives/interactives/sam/gas-laws-page-3.json"
+			],
+			[
+				"pressure-buf",
+				"src/lab/md2d/models/engine/pressure-buffers.js"
+			],
+			[
+				"molecule-c",
+				"src/lab/md2d/views/molecule-container.js"
+			],
+			[
+				"interacive-con",
+				"src/lab/md2d/controllers/interactives-controller.js"
+			],
+			[
+				"pressure-graph",
+				"src/lab/md2d/controllers/pressure-graph-controller.js"
+			],
+			[
+				"interactives.ham",
+				"src/examples/interactives/interactives.html.haml"
+			],
+			[
+				"energy-mini",
+				"src/examples/interactives/interactives/conversion-tests/energy-minimization.json"
+			],
+			[
+				"makefi",
+				"Makefile"
+			],
+			[
+				"model-cont",
+				"src/lab/md2d/controllers/model-controller.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 342.0,
+	"status_bar_visible": true
+}
