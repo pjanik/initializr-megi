@@ -1,96 +1,87 @@
 [
 {
 	"name": "zespół mieszkaniowy w krakowie",
-	"shortName": "mKrk",
+	"title": "ZESPÓŁ MIESZKANIOWY, KRAKÓW - KOBIERZYN",
 	"dir": "osiedle",
 	"galleryImage": "gallery.jpg",
 	"width": 529,
 	"height": 308,
-	"galleryDescription": "projekt całkoiwicie dostosowany do ukształtowania terenu, wyznaczone kwartały zabudowy zmodyfikowane zostały tak, aby podporządkować je spadkowi działki, całość założenia połączono malowniczym ciągiem pieszym",
-	"images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg", "7.jpg"]
+	"imagesCount": 7
 },
 {
 	"name": "2ecohouse",
-	"shortName": "2ecoH",
+	"title": "2ECOHAUSE - DOM JEDNORODZINNY W KATOWICACH",
 	"dir": "domek",
 	"galleryImage": "gallery.jpg",
 	"width": 323,
 	"height": 308,
-	"galleryDescription": "dom jest próbą odpowiedzi na problem energooszczędności i optymalnego mikroklimatu w budynku mieszkalnym; budynek jest zwartą bryłą nawiązującą do orientacji stron świata; zastosowane rozwiązania mają pomóc w uzyskaniu domu ekologicznego i ekonomicznego",
-	"images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg", "7.jpg"]
+	"imagesCount": 7
 },
 {
 	"name": "centrum dialogu kultur w krakowie",
-	"shortName": "CDKK",
+	"title": "CENTRUM DIALOGU KULTUR, KRAKÓW - PODGÓRZE",
 	"dir": "centrum_dialogu",
 	"galleryImage": "gallery.jpg",
 	"width": 464,
 	"height": 308,
-	"galleryDescription": "lokalizacja między dwoma ulicami stała się inspiracją do stworzenia budynku rozbitego na dwie bryły spiętych przejściowym holem. budynek wąskim klinem wbija się w pierzeję, zapraszając do  środka",
-	"images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg", "7.jpg"]
+	"imagesCount": 8
 },
 {
 	"name": "inkubator przedsiębiorczości",
+	"title": "INKUBATOR PRZEDSIĘBIORCZOŚCI, KRAKÓW - CZYŻYNY",
 	"shortName": "INKP",
 	"dir": "inkubator",
 	"galleryImage": "gallery.jpg",
 	"width": 608,
 	"height": 308,
-	"galleryDescription": "inkubator przedsiębiorczości w Krakowie - główną koncepcją było stworzenie budynku złożonego z pojedynczych boksów - inkubatorów do pracy - jako najmniejszych powierzchni biurowych do wynajęcia",
-	"images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg", "7.jpg"]
+	"imagesCount": 9
 },
 {
 	"name": "plomba w katowicach",
+	"title": "PLOMBA MIESZKANIOWO - USŁUGOWA W KATOWICACH",
 	"shortName": "Plomba",
 	"dir": "plomba",
 	"galleryImage": "gallery.jpg",
 	"width": 230,
 	"height": 308,
-	"galleryDescription": "budynek mieszkaniowo-usługowy został zaprojektowany jako pasaż łączący plac dworcowy z okolicami rynku, pozwalający użytkownikom na wniknięcie w zwartą tkankę urbanistyczną",
-	"images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg", "7.jpg"]
+	"imagesCount": 7
 },
-
-
 {
 	"name": "2ecohouse",
-	"shortName": "2ecoH",
+	"title": "2ECOHAUSE - DOM JEDNORODZINNY W KATOWICACH",
 	"dir": "domek",
 	"galleryImage": "gallery.jpg",
 	"width": 323,
 	"height": 308,
-	"galleryDescription": "dom jest próbą odpowiedzi na problem energooszczędności i optymalnego mikroklimatu w budynku mieszkalnym; budynek jest zwartą bryłą nawiązującą do orientacji stron świata; zastosowane rozwiązania mają pomóc w uzyskaniu domu ekologicznego i ekonomicznego",
-	"images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg", "7.jpg"]
+	"imagesCount": 7
 },
 {
 	"name": "centrum dialogu kultur w krakowie",
-	"shortName": "CDKK",
+	"title": "CENTRUM DIALOGU KULTUR, KRAKÓW - PODGÓRZE",
 	"dir": "centrum_dialogu",
 	"galleryImage": "gallery.jpg",
 	"width": 464,
 	"height": 308,
-	"galleryDescription": "lokalizacja między dwoma ulicami stała się inspiracją do stworzenia budynku rozbitego na dwie bryły spiętych przejściowym holem. budynek wąskim klinem wbija się w pierzeję, zapraszając do  środka",
-	"images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg", "7.jpg"]
+	"imagesCount": 8
 },
 {
 	"name": "inkubator przedsiębiorczości",
+	"title": "INKUBATOR PRZEDSIĘBIORCZOŚCI, KRAKÓW - CZYŻYNY",
 	"shortName": "INKP",
 	"dir": "inkubator",
 	"galleryImage": "gallery.jpg",
 	"width": 608,
 	"height": 308,
-	"galleryDescription": "inkubator przedsiębiorczości w Krakowie - główną koncepcją było stworzenie budynku złożonego z pojedynczych boksów - inkubatorów do pracy - jako najmniejszych powierzchni biurowych do wynajęcia",
-	"images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg", "7.jpg"]
+	"imagesCount": 9
 },
 {
 	"name": "plomba w katowicach",
+	"title": "PLOMBA MIESZKANIOWO - USŁUGOWA W KATOWICACH",
 	"shortName": "Plomba",
 	"dir": "plomba",
 	"galleryImage": "gallery.jpg",
 	"width": 230,
 	"height": 308,
-	"galleryDescription": "budynek mieszkaniowo-usługowy został zaprojektowany jako pasaż łączący plac dworcowy z okolicami rynku, pozwalający użytkownikom na wniknięcie w zwartą tkankę urbanistyczną",
-	"images": ["1.jpg", "2.jpg", "3.jpg", "4.jpg", "5.jpg", "6.jpg", "7.jpg"]
+	"imagesCount": 7
 }
-
-
 ]

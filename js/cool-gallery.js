@@ -152,7 +152,10 @@ window.CoolGallery = function CoolGallery(container, config) {
         }
       },
 
+      
+      // FIXME: each load of gallery causes that a new timeout is set.
       autoMove = function () {
+        /*
         function incRep() {
           var i = Math.floor(Math.random() * photos.length);
           photos[i].charge *= 35;
@@ -171,11 +174,13 @@ window.CoolGallery = function CoolGallery(container, config) {
           timeoutID = setTimeout(incRep, Math.random() * 5000 + 1000);
         }
         timeoutID = setTimeout(incRep, 2000);
+        */
       },
 
       stopAutoMove = function () {
-        clearTimeout(timeoutID);
+        //clearTimeout(timeoutID);
       },
+
 
       mouseOverPhotoEffect = function () {
         var selectThis = d3.select(this),
@@ -252,15 +257,6 @@ window.CoolGallery = function CoolGallery(container, config) {
         initSVG();
         initForce();
 
-        // Append logo.
-
-        // svg.append("image")
-        //   .attr("xlink:href", "img/top.jpg")
-        //   .attr("width", 960)
-        //   .attr("height", 79)
-        //   .attr("x", 0)
-        //   .attr("y", 20);
-
         // Init photos visualization.
         // Save links selection.
         linksSelection = svg.selectAll("a").data(photos)
@@ -297,11 +293,9 @@ window.CoolGallery = function CoolGallery(container, config) {
       };
   // ============================================================================
 
-  d3.json(config.galleryDir + "/index.json", function (photosRawData) {
-    processPhotosData(photosRawData);
-    // Call initialization.
-    init();
-    // Preload photos.
-    preloadImages();
-  });
+  processPhotosData(config.galleryData);
+  // Call initialization.
+  init();
+  // Preload photos.
+  preloadImages();
 };

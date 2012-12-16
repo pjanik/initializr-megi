@@ -1,3 +1,1 @@
-<div class="span12">
-	<div id="gallery-container"></div>
-</div>
+<div id="gallery-container" class="container hidden-phone"></div>
