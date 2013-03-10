@@ -7,10 +7,25 @@ portfolio = {}
 ###
 Define Sammy.js application.
 ###
+
+imagesPreaload  = ->
+  for project in portfolioData
+    imagesCount = project.imagesCount
+    for i in [1..imagesCount]
+      img = new Image()
+      img.src = "portfolio/#{project.dir}/#{i}.jpg"
+    img = new Image()
+    img.src = "portfolio/#{project.dir}/gallery.jpg"
+
+
 app = $.sammy "#page-content", ->
 
   # Simple templating system.
   @use Sammy.Template, "tpl"
+
+  @get "/", ->
+    $("#page-content").html ""
+    $("#gallery-container").fadeIn()
 
   # Define a "get" route that will be triggered at "#/path".
   @get "#/project/:dir", ->
@@ -23,15 +38,12 @@ app = $.sammy "#page-content", ->
         title: portfolio[dir].title
         text: description
       , ->
-        $(".project-gallery img").load ->
+        $(".project-gallery").imagesLoaded ->
           $(".project-gallery").isotope
             layoutModeString: "masonry"
 
-
-  @get "/", ->
-    @partial "tpl/gallery.tpl", {}, ->
-      $("#page-content").html ""
-      $("#gallery-container").fadeIn()
+  @get "#/_gen-proj-menu", ->
+    @render("tpl/menu.tpl", projects: portfolioData).appendTo "#proj-menu"
 
 
 # Start Sammy.js application when portfolio JSON and page are loaded.
@@ -39,7 +51,11 @@ $.get "portfolio/index.json", (data) ->
   portfolioData = data
   for project in data
     portfolio[project.dir] = project 
+
+  imagesPreaload()
+
   $ ->
+    # Make gallery.
     new CoolGallery "#gallery-container",
       galleryData: portfolioData
       galleryDir: "portfolio"
@@ -67,7 +83,6 @@ $.get "portfolio/index.json", (data) ->
       hrefFunc: (d) ->
         "#/project/#{d.dir}"
 
+    app.runRoute "get", "#/_gen-proj-menu"
+    # Run sammy app.
     app.run()
-
-
-
