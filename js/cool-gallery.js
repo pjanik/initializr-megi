@@ -245,7 +245,7 @@ window.CoolGallery = function CoolGallery(container, config) {
           .remove();
 
         // Update title.
-        title.transition().attr("x", -500);
+        title.transition().attr("x", -700);
 
         d.charge /= config.repulsionMult;
         force.start();
@@ -281,7 +281,7 @@ window.CoolGallery = function CoolGallery(container, config) {
         // Init title visualization.
         title = svg.append("text")
           .attr("class", "title")
-          .attr("x", -500) // so, invisible.
+          .attr("x", -700) // so, invisible.
           .attr("y", config.tittlePadding)
           .text("");
 
