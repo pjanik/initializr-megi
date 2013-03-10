@@ -91,7 +91,7 @@ $.get "portfolio/index.json", (data) ->
 
       repulsionMult: 130
       hrefFunc: (d) ->
-        "#/project/#{d.dir}"
+        "#/project-carousel/#{d.dir}"
 
     app.runRoute "get", "#/_gen-proj-menu"
     # Run sammy app.

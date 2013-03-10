@@ -17,8 +17,18 @@ body {
 	color: #333;
 }
 
-.carousel-inner .item {
-	background: #ddd;
-	border: 1px solid #ccc;
-	border-radius: 15px;
+.carousel-indicators .active {
+	color: #333;
+}
+
+.carousel-indicators li {
+	background-color: rgba(128,128,128,0.25);
+}
+
+.carousel-indicators .active {
+	background-color: #666;
+}
+
+.carousel-control {
+	border-color: #999;
 }
