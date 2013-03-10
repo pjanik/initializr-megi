@@ -32,3 +32,8 @@ body {
 .carousel-control {
 	border-color: #999;
 }
+
+.carousel img {
+	height: 350px;
+	margin: auto;	
+}
