@@ -1,5 +1,25 @@
 [
 {
+	"name": "inkubator przedsiębiorczości",
+	"title": "INKUBATOR PRZEDSIĘBIORCZOŚCI, KRAKÓW - CZYŻYNY",
+	"shortName": "INKP",
+	"dir": "inkubator",
+	"galleryImage": "gallery.jpg",
+	"width": 608,
+	"height": 308,
+	"imagesCount": 9
+},
+{
+	"name": "wizualizacje wnętrz",
+	"title": "WIZUALIZACJE WNĘTRZ WYKONANE DLA FIRMY INDREDESIGN",
+	"shortName": "wizualizacje",
+	"dir": "wizki",
+	"galleryImage": "gallery.jpg",
+	"width": 201,
+	"height": 308,
+	"imagesCount": 3
+},
+{
 	"name": "zespół mieszkaniowy w krakowie",
 	"title": "ZESPÓŁ MIESZKANIOWY, KRAKÓW - KOBIERZYN",
 	"dir": "osiedle",
@@ -25,16 +45,6 @@
 	"width": 464,
 	"height": 308,
 	"imagesCount": 8
-},
-{
-	"name": "inkubator przedsiębiorczości",
-	"title": "INKUBATOR PRZEDSIĘBIORCZOŚCI, KRAKÓW - CZYŻYNY",
-	"shortName": "INKP",
-	"dir": "inkubator",
-	"galleryImage": "gallery.jpg",
-	"width": 608,
-	"height": 308,
-	"imagesCount": 9
 },
 {
 	"name": "plomba w katowicach",
