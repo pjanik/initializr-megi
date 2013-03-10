@@ -1,7 +1,7 @@
 <div class="container">
 	<div class="row">
 		<div class="span12">
-			<h2><%= title %></h2>
+			<h3><%= title %></h3>
 		</div>
 	</div>
 	<div class="row">
