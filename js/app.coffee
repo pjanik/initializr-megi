@@ -23,11 +23,11 @@ app = $.sammy "#page-content", ->
   # Simple templating system.
   @use Sammy.Template, "tpl"
 
+  # Define a "get" route that will be triggered at "#/path".
   @get "/", ->
     $("#page-content").html ""
     $("#gallery-container").fadeIn()
 
-  # Define a "get" route that will be triggered at "#/path".
   @get "#/project/:dir", ->
     $("#gallery-container").hide()
     dir = @params.dir
@@ -41,6 +41,16 @@ app = $.sammy "#page-content", ->
         $(".project-gallery").imagesLoaded ->
           $(".project-gallery").isotope
             layoutModeString: "masonry"
+
+  @get "#/project-carousel/:dir", ->
+    $("#gallery-container").hide()
+    dir = @params.dir
+    $.get "portfolio/#{dir}/long.txt", (description) =>
+      @partial "tpl/project-carousel.tpl", 
+        dir: dir
+        imagesCount: portfolio[dir].imagesCount
+        title: portfolio[dir].title
+        text: description
 
   @get "#/_gen-proj-menu", ->
     @render("tpl/menu.tpl", projects: portfolioData).appendTo "#proj-menu"
