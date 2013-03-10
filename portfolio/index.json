@@ -45,43 +45,5 @@
 	"width": 230,
 	"height": 308,
 	"imagesCount": 7
-},
-{
-	"name": "2ecohouse",
-	"title": "2ECOHAUSE - DOM JEDNORODZINNY W KATOWICACH",
-	"dir": "domek",
-	"galleryImage": "gallery.jpg",
-	"width": 323,
-	"height": 308,
-	"imagesCount": 7
-},
-{
-	"name": "centrum dialogu kultur w krakowie",
-	"title": "CENTRUM DIALOGU KULTUR, KRAKÓW - PODGÓRZE",
-	"dir": "centrum_dialogu",
-	"galleryImage": "gallery.jpg",
-	"width": 464,
-	"height": 308,
-	"imagesCount": 8
-},
-{
-	"name": "inkubator przedsiębiorczości",
-	"title": "INKUBATOR PRZEDSIĘBIORCZOŚCI, KRAKÓW - CZYŻYNY",
-	"shortName": "INKP",
-	"dir": "inkubator",
-	"galleryImage": "gallery.jpg",
-	"width": 608,
-	"height": 308,
-	"imagesCount": 9
-},
-{
-	"name": "plomba w katowicach",
-	"title": "PLOMBA MIESZKANIOWO - USŁUGOWA W KATOWICACH",
-	"shortName": "Plomba",
-	"dir": "plomba",
-	"galleryImage": "gallery.jpg",
-	"width": 230,
-	"height": 308,
-	"imagesCount": 7
 }
 ]
